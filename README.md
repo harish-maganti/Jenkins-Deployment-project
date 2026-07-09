@@ -91,5 +91,5 @@ Natural extensions that would take this from a foundational pipeline toward a pr
 
 ## Author
 
-**Harish Maganti** — Cloud & DevOps Engineer
-[LinkedIn](https://linkedin.com/in/harishmaganti) · [GitHub](https://github.com/Harishmaganti2) · harish@harishmaganti.com
+**Harish Maganti** — Data Engineer
+[LinkedIn](https://linkedin.com/in/harish-maganti) · [GitHub](https://github.com/harish-maganti) · harish@harishmaganti.com
